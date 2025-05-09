@@ -3,7 +3,7 @@
 Telegram-бот для анализа позиций товаров в поисковой выдаче Wildberries. Помогает отслеживать видимость товаров по ключевым запросам.
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue)](https://python.org)
-[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
+[![Requests](https://img.shields.io/badge/Requests-2.32.3-important)](https://docs.python-requests.org)
 
 ## 🌟 Особенности
 
